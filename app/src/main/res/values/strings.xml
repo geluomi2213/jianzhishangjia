@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ShangJia</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_register">register</string>
+    <string name="title_activity_findpwd">FindpwdActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_welcome">WelcomeActivity</string>
+    <string name="title_activity_publish">PublishActivity</string>
+    <string name="title_activity_test">Test</string>
+    <string name="title_activity_shang_jia_info">ShangJiaInfo</string>
+    <string name="title_activity_pub_record">PubRecordActivity</string>
+    <string name="title_activity_chat">ChatActivity</string>
+
+</resources>

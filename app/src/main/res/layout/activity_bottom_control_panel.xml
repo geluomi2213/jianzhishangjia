@@ -1,0 +1,33 @@
+<com.example.administrator.shangjia.BottomControlPanel
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:layout_alignParentBottom="true"
+    android:gravity="center_vertical"
+    android:paddingLeft="20dp"
+    android:paddingRight="20dp" >
+    <com.example.administrator.shangjia.ImageText
+        android:id="@+id/btn_page"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true" />
+
+    <com.example.administrator.shangjia.ImageText
+        android:id="@+id/btn_message"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/btn_page" />
+
+    <com.example.administrator.shangjia.ImageText
+        android:id="@+id/btn_me"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/btn_message"/>
+
+    <com.example.administrator.shangjia.ImageText
+        android:id="@+id/btn_setting"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true" />
+
+</com.example.administrator.shangjia.BottomControlPanel>
